@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+@media only screen and (min-width: 1024px){
+    .hero{
+        background-image: url(../assets/hero-section.jpg);
+        background-size: cover;
+        background-position: center;
+        margin-top: 90px;
+        height: 100vh;
+    }
+    .section-one{
+        background-image: url(../assets/section1.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    }
+    .section-two{
+        background-image: url(../assets/section2.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    }
+    .section-three{
+        background-image: url(../assets/section3.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    }
+    .section-four{
+        background-image: url(../assets/section4.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    }
+    .section-five{
+        background-image: url(../assets/section5.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+    }
+}
