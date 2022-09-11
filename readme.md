@@ -13,17 +13,17 @@
 ***
 ## Description
 
-This project [Rode Landing Page]() was built using Semantic HTML and **Tailwind** from scratch. It took me close to 8 hours to make Rode Landing page clone. . This project helped me a lot in understanding the basic yet effective Tailwind concepts like grid flex, etc. The main learning after building this project is to make complex responsive design simpler and easier and faster with **Tailwindcss** screen breakpoints. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Rode Landing Page](https://rode-uiclone.netlify.app/) was built using Semantic HTML and **Tailwind** from scratch. It took me close to 8 hours to make Rode Landing page clone. . This project helped me a lot in understanding the basic yet effective Tailwind concepts like grid flex, etc. The main learning after building this project is to make complex responsive design simpler and easier and faster with **Tailwindcss** screen breakpoints. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://rode-uiclone.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/qZhXn2CSpj0)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Rode_clone)
 
 ***
 ### Built With 
@@ -97,17 +97,17 @@ This project [Rode Landing Page]() was built using Semantic HTML and **Tailwind*
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
 
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
 * [Github](https://github.com/ShubhamSingh03)
-* [Findcoder]()
+* [Findcoder](https://www.findcoder.io/u/shubham_singh)
 ***
 ***
 [go to top](#rode-landing-page)
